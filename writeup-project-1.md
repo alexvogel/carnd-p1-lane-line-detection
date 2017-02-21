@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 
 ###1. Pipeline For Lane-Line-Detection
 
-My pipeline consisted of 6 steps.
+My pipeline consisted of 7 steps.
 
 Step 1: Converting to grayscale
 
