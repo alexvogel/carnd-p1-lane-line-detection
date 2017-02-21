@@ -1,8 +1,7 @@
 #**Finding Lane Lines on the Road** 
 
-##Writeup Template
+##Writeup Project-1
 
-###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
 
 ---
 
@@ -15,14 +14,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image0]: ./myexamples/original.jpg "Original"
-[image1]: ./myexamples/grayscale.jpg "Grayscale"
-[image2]: ./myexamples/gaussianblur.jpg "Gaussian Blur"
-[image3]: ./myexamples/edges.jpg "Edges"
-[image4]: ./myexamples/mask.jpg "Region of Interest"
-[image5]: ./myexamples/hough.jpg "Hough Lines"
-[image6]: ./myexamples/polyfit.jpg "Polyfit"
-[image7]: ./myexamples/result.jpg "Detected Lines"
+[image0]: ./myexamples/0-original.jpg "Original"
+[image1]: ./myexamples/1-grayscale.jpg "Grayscale"
+[image2]: ./myexamples/2-gaussianblur.jpg "Gaussian Blur"
+[image3]: ./myexamples/3-edges.jpg "Edges"
+[image4]: ./myexamples/4-mask.jpg "Region of Interest"
+[image5]: ./myexamples/5-hough.jpg "Hough Lines"
+[image6]: ./myexamples/6-polyfit.jpg "Polyfit"
+[image7]: ./myexamples/7-mask2.jpg "Polyfit"
+[image8]: ./myexamples/8-result.jpg "Detected Lines"
 
 ---
 
