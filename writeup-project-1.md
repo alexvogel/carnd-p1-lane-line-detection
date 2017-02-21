@@ -73,4 +73,6 @@ One potential shortcoming would be in sharp curves, when the lane lines are so h
 
 ###3. Possible improvements to pipeline
 
-- ?
+- Improving edge detection by reducing to different colorspaces instead of greyscale. This could be more effective on roads with difficult and high contrast surfaces.
+
+- Improving the regression of hough lines. Perhaps could polyfit of a higher order improve the accuracy on curvy roads.
